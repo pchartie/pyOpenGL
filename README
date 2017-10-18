@@ -1,0 +1,17 @@
+First we need to have OSX
+Then we need to have Python 3.x !
+if you do not have it, go see -> https://www.python.org/downloads/
+
+Process for launch:
+sh install.sh
+cd sources
+python3 main.py
+
+Controls:
+W -> up
+S -> down
+A -> left
+D -> right
+
+Left Shift -> Turbo
+Space -> Disco mode
